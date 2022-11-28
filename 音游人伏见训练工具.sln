@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "音游人伏见训练工具", "音游人伏见训练工具.vcxproj", "{71B6A546-91B9-46DE-A913-DC6F8FCD3E72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71B6A546-91B9-46DE-A913-DC6F8FCD3E72}.Debug|x64.ActiveCfg = Debug|x64
+		{71B6A546-91B9-46DE-A913-DC6F8FCD3E72}.Debug|x64.Build.0 = Debug|x64
+		{71B6A546-91B9-46DE-A913-DC6F8FCD3E72}.Debug|x86.ActiveCfg = Debug|Win32
+		{71B6A546-91B9-46DE-A913-DC6F8FCD3E72}.Debug|x86.Build.0 = Debug|Win32
+		{71B6A546-91B9-46DE-A913-DC6F8FCD3E72}.Release|x64.ActiveCfg = Release|x64
+		{71B6A546-91B9-46DE-A913-DC6F8FCD3E72}.Release|x64.Build.0 = Release|x64
+		{71B6A546-91B9-46DE-A913-DC6F8FCD3E72}.Release|x86.ActiveCfg = Release|Win32
+		{71B6A546-91B9-46DE-A913-DC6F8FCD3E72}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {256A2825-D746-4E21-89FA-CD9FB2A5DC93}
+	EndGlobalSection
+EndGlobal
